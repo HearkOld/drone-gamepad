@@ -1,0 +1,13 @@
+{
+  "name": "drone-gamepad",
+  "description": "Remote control for your ar-drone via your gamepad API",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "~3.0.0",
+    "ar-drone": "git://github.com/felixge/node-ar-drone.git#ccc1e53dea91a9309be034d706235d7e8763065a",
+    "faye": "0.8.x",
+    "node-ffi": "~0.5.7"
+  },
+  "repository": "https://github.com/chilijung/drone-gamepad.git",
+  "homepage": "https://github.com/chilijung/drone-gamepad"
+}
