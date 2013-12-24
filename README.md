@@ -1,6 +1,6 @@
-# gamepad
+# Drone gamepad
 
-Using joystick via HTML5 to control.
+Using gamepad via HTML5 gamepad API to control.
 
 ## License
 
