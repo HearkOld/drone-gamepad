@@ -20,7 +20,7 @@ coffee app.coffee
 
 ## Flow chart
 
-![flow chart](https://raw.github.com/chilijung/drone-gamepad/master/image/screenshot.png "chart")
+![flow chart](https://raw.github.com/chilijung/drone-gamepad/master/image/flow.png "chart")
 
 ## License
 
