@@ -9,7 +9,7 @@ app = express()
 app.configure ->
 	app.set('port', process.env.PORT || 3001)
 	app.use(app.router)
-	app.use(express.static(path.join(__dirname, 'public')))
+	app.use(express.static(path.join(__dirname, '/')))
 	app.use("/bower_components", express.static(path.join(__dirname, 'bower_components')))
 server = require("http").createServer(app)
 
