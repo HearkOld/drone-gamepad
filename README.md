@@ -18,6 +18,10 @@ npm install
 coffee app.coffee
 ```
 
+## Flow chart
+
+![flow chart](https://raw.github.com/chilijung/drone-gamepad/master/image/screenshot.png "chart")
+
 ## License
 
 MIT [@chilijung](chilijung@gmail.com)
